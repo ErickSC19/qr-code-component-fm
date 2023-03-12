@@ -15,10 +15,9 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [Author](#author)
 
 ## Overview
-
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/desktop-screenshot.png)
 
 ### Links
 
@@ -26,7 +25,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -35,9 +33,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### What I learned
 
-I started this challenge because I wanted to reinforce previous knowledge and also because I could do it in a short time.
-
-
+I started this challenge because I wanted to reinforce previous knowledge and also help me start using Frontend Mentor. Also, I learned that using `margin-top: auto;` on an item inside a flex container makes it go automatically to the bottom, regardless of the height (this thanks to an article from Christoph Benjamin Weber), but pushes everything above to the top corner, so adding the same `margin-top: auto;` statement to the component in this case, will keep it more or less in the center.
 
 ### Continued development
 
@@ -46,6 +42,7 @@ My aim now is to use this reinforcement to improve my learning of other technolo
 ### Useful resources
 
 - [MDN](https://developer.mozilla.org/en-US/) - I consider this the best documentation in this matter out there
+- [Christoph's entry](https://wetainment.com/articles/sticky-html-footer/)
 
 ## Author
 
