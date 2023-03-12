@@ -33,7 +33,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### What I learned
 
-I started this challenge because I wanted to reinforce previous knowledge and also help me start using Frontend Mentor. Also, I learned that using `margin-top: auto;` on an item inside a flex container makes it go automatically to the bottom, regardless of the height (this thanks to an article from Christoph Benjamin Weber), but pushes everything above to the top corner, so adding the same `margin-top: auto;` statement to the component in this case, will keep it more or less in the center.
+I started this challenge because I wanted to reinforce previous knowledge and also help me start using Frontend Mentor and Markdown. Also, I learned that using `margin-top: auto;` on an item inside a flex container makes it go automatically to the bottom, regardless of the height (this thanks to an article from Christoph Benjamin Weber), but pushes everything above to the top corner, so adding the same `margin-top: auto;` statement to the component in this case, will keep it more or less in the center.
 
 ### Continued development
 
