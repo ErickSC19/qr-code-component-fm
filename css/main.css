@@ -30,7 +30,8 @@ body {
 .qr-component-bottom-text {
   padding: 5px 18px;
 }
-.qr-component h2 {
+.qr-component h1 {
+  font-size: 1.4rem;
   color: hsl(218, 44%, 22%);
 }
 .qr-component p {
